@@ -1,3 +1,4 @@
+Projeto da dio.me para criação um banco de dados De uma Oficina Mecânica.
 A tabela Estoque foi incluída para atender à necessidade de controlar os itens disponíveis na oficina mecânica, 
 garantindo que o gerenciamento das peças seja eficiente e organizado. 
 A tabela Fornecedor foi criada para centralizar as informações sobre os fornecedores das peças e materiais utilizados na oficina.
